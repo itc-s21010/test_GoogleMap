@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">test_GoogleMap</string>
+    <string name="no_demos">No demos</string>
     <string name="google_map_api_key">AIzaSyB8fz9-59npC8MeaZufU2qGWp06-oi0Z4Q</string>
+    <string-array name="map_renderer_spinner_array"></string-array>
 </resources>
